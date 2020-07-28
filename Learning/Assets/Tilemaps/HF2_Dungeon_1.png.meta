@@ -1,0 +1,4458 @@
+fileFormatVersion: 2
+guid: 2b755a24088013b42b40d578ec73a2a5
+timeCreated: 1463614929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HF2_Dungeon_1_0
+    21300002: HF2_Dungeon_1_1
+    21300004: HF2_Dungeon_1_2
+    21300006: HF2_Dungeon_1_3
+    21300008: HF2_Dungeon_1_4
+    21300010: HF2_Dungeon_1_5
+    21300012: HF2_Dungeon_1_6
+    21300014: HF2_Dungeon_1_7
+    21300016: HF2_Dungeon_1_8
+    21300018: HF2_Dungeon_1_9
+    21300020: HF2_Dungeon_1_10
+    21300022: HF2_Dungeon_1_11
+    21300024: HF2_Dungeon_1_12
+    21300026: HF2_Dungeon_1_13
+    21300028: HF2_Dungeon_1_14
+    21300030: HF2_Dungeon_1_15
+    21300032: HF2_Dungeon_1_16
+    21300034: HF2_Dungeon_1_17
+    21300036: HF2_Dungeon_1_18
+    21300038: HF2_Dungeon_1_19
+    21300040: HF2_Dungeon_1_20
+    21300042: HF2_Dungeon_1_21
+    21300044: HF2_Dungeon_1_22
+    21300046: HF2_Dungeon_1_23
+    21300048: HF2_Dungeon_1_24
+    21300050: HF2_Dungeon_1_25
+    21300052: HF2_Dungeon_1_26
+    21300054: HF2_Dungeon_1_27
+    21300056: HF2_Dungeon_1_28
+    21300058: HF2_Dungeon_1_29
+    21300060: HF2_Dungeon_1_30
+    21300062: HF2_Dungeon_1_31
+    21300064: HF2_Dungeon_1_32
+    21300066: HF2_Dungeon_1_33
+    21300068: HF2_Dungeon_1_34
+    21300070: HF2_Dungeon_1_35
+    21300072: HF2_Dungeon_1_36
+    21300074: HF2_Dungeon_1_37
+    21300076: HF2_Dungeon_1_38
+    21300078: HF2_Dungeon_1_39
+    21300080: HF2_Dungeon_1_40
+    21300082: HF2_Dungeon_1_41
+    21300084: HF2_Dungeon_1_42
+    21300086: HF2_Dungeon_1_43
+    21300088: HF2_Dungeon_1_44
+    21300090: HF2_Dungeon_1_45
+    21300092: HF2_Dungeon_1_46
+    21300094: HF2_Dungeon_1_47
+    21300096: HF2_Dungeon_1_48
+    21300098: HF2_Dungeon_1_49
+    21300100: HF2_Dungeon_1_50
+    21300102: HF2_Dungeon_1_51
+    21300104: HF2_Dungeon_1_52
+    21300106: HF2_Dungeon_1_53
+    21300108: HF2_Dungeon_1_54
+    21300110: HF2_Dungeon_1_55
+    21300112: HF2_Dungeon_1_56
+    21300114: HF2_Dungeon_1_57
+    21300116: HF2_Dungeon_1_58
+    21300118: HF2_Dungeon_1_59
+    21300120: HF2_Dungeon_1_60
+    21300122: HF2_Dungeon_1_61
+    21300124: HF2_Dungeon_1_62
+    21300126: HF2_Dungeon_1_63
+    21300128: HF2_Dungeon_1_64
+    21300130: HF2_Dungeon_1_65
+    21300132: HF2_Dungeon_1_66
+    21300134: HF2_Dungeon_1_67
+    21300136: HF2_Dungeon_1_68
+    21300138: HF2_Dungeon_1_69
+    21300140: HF2_Dungeon_1_70
+    21300142: HF2_Dungeon_1_71
+    21300144: HF2_Dungeon_1_72
+    21300146: HF2_Dungeon_1_73
+    21300148: HF2_Dungeon_1_74
+    21300150: HF2_Dungeon_1_75
+    21300152: HF2_Dungeon_1_76
+    21300154: HF2_Dungeon_1_77
+    21300156: HF2_Dungeon_1_78
+    21300158: HF2_Dungeon_1_79
+    21300160: HF2_Dungeon_1_80
+    21300162: HF2_Dungeon_1_81
+    21300164: HF2_Dungeon_1_82
+    21300166: HF2_Dungeon_1_83
+    21300168: HF2_Dungeon_1_84
+    21300170: HF2_Dungeon_1_85
+    21300172: HF2_Dungeon_1_86
+    21300174: HF2_Dungeon_1_87
+    21300176: HF2_Dungeon_1_88
+    21300178: HF2_Dungeon_1_89
+    21300180: HF2_Dungeon_1_90
+    21300182: HF2_Dungeon_1_91
+    21300184: HF2_Dungeon_1_92
+    21300186: HF2_Dungeon_1_93
+    21300188: HF2_Dungeon_1_94
+    21300190: HF2_Dungeon_1_95
+    21300192: HF2_Dungeon_1_96
+    21300194: HF2_Dungeon_1_97
+    21300196: HF2_Dungeon_1_98
+    21300198: HF2_Dungeon_1_99
+    21300200: HF2_Dungeon_1_100
+    21300202: HF2_Dungeon_1_101
+    21300204: HF2_Dungeon_1_102
+    21300206: HF2_Dungeon_1_103
+    21300208: HF2_Dungeon_1_104
+    21300210: HF2_Dungeon_1_105
+    21300212: HF2_Dungeon_1_106
+    21300214: HF2_Dungeon_1_107
+    21300216: HF2_Dungeon_1_108
+    21300218: HF2_Dungeon_1_109
+    21300220: HF2_Dungeon_1_110
+    21300222: HF2_Dungeon_1_111
+    21300224: HF2_Dungeon_1_112
+    21300226: HF2_Dungeon_1_113
+    21300228: HF2_Dungeon_1_114
+    21300230: HF2_Dungeon_1_115
+    21300232: HF2_Dungeon_1_116
+    21300234: HF2_Dungeon_1_117
+    21300236: HF2_Dungeon_1_118
+    21300238: HF2_Dungeon_1_119
+    21300240: HF2_Dungeon_1_120
+    21300242: HF2_Dungeon_1_121
+    21300244: HF2_Dungeon_1_122
+    21300246: HF2_Dungeon_1_123
+    21300248: HF2_Dungeon_1_124
+    21300250: HF2_Dungeon_1_125
+    21300252: HF2_Dungeon_1_126
+    21300254: HF2_Dungeon_1_127
+    21300256: HF2_Dungeon_1_128
+    21300258: HF2_Dungeon_1_129
+    21300260: HF2_Dungeon_1_130
+    21300262: HF2_Dungeon_1_131
+    21300264: HF2_Dungeon_1_132
+    21300266: HF2_Dungeon_1_133
+    21300268: HF2_Dungeon_1_134
+    21300270: HF2_Dungeon_1_135
+    21300272: HF2_Dungeon_1_136
+    21300274: HF2_Dungeon_1_137
+    21300276: HF2_Dungeon_1_138
+    21300278: HF2_Dungeon_1_139
+    21300280: HF2_Dungeon_1_140
+    21300282: HF2_Dungeon_1_141
+    21300284: HF2_Dungeon_1_142
+    21300286: HF2_Dungeon_1_143
+    21300288: HF2_Dungeon_1_144
+    21300290: HF2_Dungeon_1_145
+    21300292: HF2_Dungeon_1_146
+    21300294: HF2_Dungeon_1_147
+    21300296: HF2_Dungeon_1_148
+    21300298: HF2_Dungeon_1_149
+    21300300: HF2_Dungeon_1_150
+    21300302: HF2_Dungeon_1_151
+    21300304: HF2_Dungeon_1_152
+    21300306: HF2_Dungeon_1_153
+    21300308: HF2_Dungeon_1_154
+    21300310: HF2_Dungeon_1_155
+    21300312: HF2_Dungeon_1_156
+    21300314: HF2_Dungeon_1_157
+    21300316: HF2_Dungeon_1_158
+    21300318: HF2_Dungeon_1_159
+    21300320: HF2_Dungeon_1_160
+    21300322: HF2_Dungeon_1_161
+    21300324: HF2_Dungeon_1_162
+    21300326: HF2_Dungeon_1_163
+    21300328: HF2_Dungeon_1_164
+    21300330: HF2_Dungeon_1_165
+    21300332: HF2_Dungeon_1_166
+    21300334: HF2_Dungeon_1_167
+    21300336: HF2_Dungeon_1_168
+    21300338: HF2_Dungeon_1_169
+    21300340: HF2_Dungeon_1_170
+    21300342: HF2_Dungeon_1_171
+    21300344: HF2_Dungeon_1_172
+    21300346: HF2_Dungeon_1_173
+    21300348: HF2_Dungeon_1_174
+    21300350: HF2_Dungeon_1_175
+    21300352: HF2_Dungeon_1_176
+    21300354: HF2_Dungeon_1_177
+    21300356: HF2_Dungeon_1_178
+    21300358: HF2_Dungeon_1_179
+    21300360: HF2_Dungeon_1_180
+    21300362: HF2_Dungeon_1_181
+    21300364: HF2_Dungeon_1_182
+    21300366: HF2_Dungeon_1_183
+    21300368: HF2_Dungeon_1_184
+    21300370: HF2_Dungeon_1_185
+    21300372: HF2_Dungeon_1_186
+    21300374: HF2_Dungeon_1_187
+    21300376: HF2_Dungeon_1_188
+    21300378: HF2_Dungeon_1_189
+    21300380: HF2_Dungeon_1_190
+    21300382: HF2_Dungeon_1_191
+    21300384: HF2_Dungeon_1_192
+    21300386: HF2_Dungeon_1_193
+    21300388: HF2_Dungeon_1_194
+    21300390: HF2_Dungeon_1_195
+    21300392: HF2_Dungeon_1_196
+    21300394: HF2_Dungeon_1_197
+    21300396: HF2_Dungeon_1_198
+    21300398: HF2_Dungeon_1_199
+    21300400: HF2_Dungeon_1_200
+    21300402: HF2_Dungeon_1_201
+    21300404: HF2_Dungeon_1_202
+    21300406: HF2_Dungeon_1_203
+    21300408: HF2_Dungeon_1_204
+    21300410: HF2_Dungeon_1_205
+    21300412: HF2_Dungeon_1_206
+    21300414: HF2_Dungeon_1_207
+    21300416: HF2_Dungeon_1_208
+    21300418: HF2_Dungeon_1_209
+    21300420: HF2_Dungeon_1_210
+    21300422: HF2_Dungeon_1_211
+    21300424: HF2_Dungeon_1_212
+    21300426: HF2_Dungeon_1_213
+    21300428: HF2_Dungeon_1_214
+    21300430: HF2_Dungeon_1_215
+    21300432: HF2_Dungeon_1_216
+    21300434: HF2_Dungeon_1_217
+    21300436: HF2_Dungeon_1_218
+    21300438: HF2_Dungeon_1_219
+    21300440: HF2_Dungeon_1_220
+    21300442: HF2_Dungeon_1_221
+    21300444: HF2_Dungeon_1_222
+    21300446: HF2_Dungeon_1_223
+    21300448: HF2_Dungeon_1_224
+    21300450: HF2_Dungeon_1_225
+    21300452: HF2_Dungeon_1_226
+    21300454: HF2_Dungeon_1_227
+    21300456: HF2_Dungeon_1_228
+    21300458: HF2_Dungeon_1_229
+    21300460: HF2_Dungeon_1_230
+    21300462: HF2_Dungeon_1_231
+    21300464: HF2_Dungeon_1_232
+    21300466: HF2_Dungeon_1_233
+    21300468: HF2_Dungeon_1_234
+    21300470: HF2_Dungeon_1_235
+    21300472: HF2_Dungeon_1_236
+    21300474: HF2_Dungeon_1_237
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HF2_Dungeon_1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -16}
+        - {x: 15, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: HF2_Dungeon_1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -11}
+        - {x: -10, y: -15}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: -14}
+        - {x: 3, y: -11}
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -8, y: -6}
+        - {x: 3, y: -4}
+        - {x: 15, y: 7}
+        - {x: 15, y: 16}
+    - name: HF2_Dungeon_1_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: 2}
+        - {x: 16, y: 16}
+      - - {x: 11, y: -15}
+        - {x: 11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -13}
+        - {x: 13, y: -13}
+    - name: HF2_Dungeon_1_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 7}
+        - {x: 13, y: 9}
+        - {x: 6, y: 11}
+    - name: HF2_Dungeon_1_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 7}
+        - {x: 13, y: 9}
+        - {x: 6, y: 11}
+    - name: HF2_Dungeon_1_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -16}
+        - {x: 15, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: HF2_Dungeon_1_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 0}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: -12, y: 5}
+    - name: HF2_Dungeon_1_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 0}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: -12, y: 5}
+    - name: HF2_Dungeon_1_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -4}
+        - {x: 10, y: -11}
+        - {x: 10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -4}
+        - {x: 15, y: -3}
+    - name: HF2_Dungeon_1_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: -1, y: -16}
+        - {x: -1, y: 3}
+        - {x: -8, y: 9}
+    - name: HF2_Dungeon_1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -13}
+        - {x: 11, y: 1}
+        - {x: 9, y: 3}
+        - {x: -9, y: 3}
+        - {x: -16, y: -4}
+    - name: HF2_Dungeon_1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 2}
+        - {x: -1, y: 4}
+        - {x: -9, y: 4}
+        - {x: -12, y: 3}
+        - {x: -12, y: -7}
+        - {x: -11, y: -13}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 11, y: 4}
+    - name: HF2_Dungeon_1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: 16, y: -12}
+        - {x: 15, y: 4}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+    - name: HF2_Dungeon_1_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: -8, y: 10}
+        - {x: -15, y: 2}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 3}
+    - name: HF2_Dungeon_1_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -7, y: 10}
+        - {x: -13, y: 9}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 0}
+        - {x: 8, y: 8}
+    - name: HF2_Dungeon_1_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -11, y: 11}
+        - {x: -14, y: 7}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 10, y: 13}
+    - name: HF2_Dungeon_1_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+        - {x: 15, y: 16}
+        - {x: -8, y: 16}
+        - {x: -16, y: 4}
+    - name: HF2_Dungeon_1_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -1}
+        - {x: 5, y: 16}
+    - name: HF2_Dungeon_1_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: 9, y: 13}
+        - {x: 9, y: -6}
+        - {x: 13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -13}
+        - {x: 6, y: -1}
+      - - {x: 10, y: 16}
+        - {x: 8, y: 8}
+        - {x: 8, y: -2}
+        - {x: 9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 0}
+        - {x: 2, y: -4}
+        - {x: -2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 14, y: 11}
+    - name: HF2_Dungeon_1_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -11, y: 15}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: -9, y: -16}
+        - {x: -7, y: -11}
+        - {x: -5, y: 0}
+    - name: HF2_Dungeon_1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 1}
+        - {x: -14, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 9}
+        - {x: 15, y: 16}
+    - name: HF2_Dungeon_1_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 7}
+        - {x: -14, y: -5}
+        - {x: -12, y: -7}
+        - {x: -9, y: -6}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -15}
+        - {x: 16, y: -5}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -10}
+        - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 14, y: 16}
+    - name: HF2_Dungeon_1_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -15}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -14, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -8}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -14, y: 4}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 4, y: 16}
+    - name: HF2_Dungeon_1_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -14, y: 12}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 8, y: 16}
+    - name: HF2_Dungeon_1_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -16, y: 1}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 11, y: 16}
+    - name: HF2_Dungeon_1_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -15}
+        - {x: -13, y: -14}
+        - {x: -13, y: -8}
+        - {x: -15, y: -6}
+        - {x: -16, y: -6}
+    - name: HF2_Dungeon_1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 7}
+        - {x: -6, y: 7}
+        - {x: -13, y: 4}
+        - {x: -16, y: -6}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -7}
+        - {x: 10, y: 2}
+    - name: HF2_Dungeon_1_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 2}
+        - {x: -1, y: 4}
+        - {x: -9, y: 4}
+        - {x: -12, y: 3}
+        - {x: -12, y: -7}
+        - {x: -11, y: -13}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 11, y: 4}
+    - name: HF2_Dungeon_1_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: 16, y: -12}
+        - {x: 15, y: 4}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+      - - {x: -9, y: 12}
+        - {x: -10, y: 10}
+        - {x: -9, y: 6}
+        - {x: -3, y: 5}
+        - {x: 2, y: 5}
+        - {x: 5, y: 9}
+        - {x: 4, y: 12}
+    - name: HF2_Dungeon_1_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: -8, y: 10}
+        - {x: -15, y: 2}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 3}
+    - name: HF2_Dungeon_1_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -7, y: 10}
+        - {x: -13, y: 9}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 0}
+        - {x: 8, y: 8}
+    - name: HF2_Dungeon_1_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 12}
+        - {x: -16, y: 3}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 0}
+        - {x: 10, y: 8}
+    - name: HF2_Dungeon_1_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -13, y: 2}
+        - {x: -13, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 10}
+        - {x: 8, y: 16}
+    - name: HF2_Dungeon_1_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 13}
+        - {x: -15, y: 8}
+        - {x: -15, y: -9}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: -1}
+        - {x: 4, y: 16}
+    - name: HF2_Dungeon_1_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -14, y: 8}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 12, y: 15}
+    - name: HF2_Dungeon_1_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 3}
+        - {x: -5, y: -8}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 15, y: 8}
+    - name: HF2_Dungeon_1_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 10}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: -12}
+        - {x: -2, y: 7}
+    - name: HF2_Dungeon_1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 12}
+        - {x: 15, y: 16}
+    - name: HF2_Dungeon_1_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 7}
+        - {x: -14, y: -5}
+        - {x: -12, y: -7}
+        - {x: -9, y: -6}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -15}
+        - {x: 16, y: -5}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -10}
+        - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+        - {x: 14, y: 16}
+    - name: HF2_Dungeon_1_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -14}
+        - {x: 10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 13, y: 16}
+    - name: HF2_Dungeon_1_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+    - name: HF2_Dungeon_1_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -10}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 14, y: 16}
+    - name: HF2_Dungeon_1_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 8, y: 13}
+    - name: HF2_Dungeon_1_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -14, y: 1}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 8, y: 10}
+      - - {x: -2, y: 16}
+        - {x: -2, y: 15}
+        - {x: 3, y: 11}
+        - {x: 10, y: 11}
+        - {x: 14, y: 14}
+        - {x: 14, y: 16}
+    - name: HF2_Dungeon_1_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -12}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -9}
+        - {x: 14, y: 13}
+    - name: HF2_Dungeon_1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 2}
+        - {x: -8, y: -8}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+    - name: HF2_Dungeon_1_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 5}
+        - {x: -12, y: 5}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -11}
+        - {x: 1, y: 4}
+    - name: HF2_Dungeon_1_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -6, y: 10}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+    - name: HF2_Dungeon_1_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 12, y: 14}
+    - name: HF2_Dungeon_1_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: -2}
+        - {x: 10, y: 16}
+    - name: HF2_Dungeon_1_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 1}
+        - {x: -14, y: -5}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -6}
+        - {x: 8, y: 1}
+    - name: HF2_Dungeon_1_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 4}
+        - {x: -9, y: -1}
+        - {x: -13, y: -13}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 1}
+        - {x: 7, y: 4}
+    - name: HF2_Dungeon_1_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 0}
+        - {x: 1, y: 4}
+        - {x: -7, y: 4}
+        - {x: -13, y: -2}
+        - {x: -13, y: -13}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -11}
+    - name: HF2_Dungeon_1_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -14, y: 5}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 9, y: 13}
+    - name: HF2_Dungeon_1_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 4}
+        - {x: -16, y: -3}
+        - {x: -16, y: -11}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 0, y: 5}
+    - name: HF2_Dungeon_1_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -4, y: 12}
+        - {x: 8, y: -2}
+        - {x: 15, y: -3}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: 7, y: -15}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -6, y: -14}
+        - {x: 8, y: -13}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -5}
+        - {x: -15, y: -5}
+        - {x: -7, y: -4}
+        - {x: 9, y: 11}
+        - {x: 9, y: 16}
+    - name: HF2_Dungeon_1_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -9, y: 15}
+        - {x: -9, y: -11}
+        - {x: -7, y: -15}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -5}
+        - {x: 14, y: 13}
+    - name: HF2_Dungeon_1_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: HF2_Dungeon_1_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -14, y: -11}
+        - {x: -11, y: -11}
+        - {x: 1, y: -6}
+        - {x: 3, y: -3}
+        - {x: 3, y: 9}
+      - - {x: 3, y: 16}
+        - {x: 3, y: 12}
+        - {x: 7, y: 6}
+        - {x: 10, y: 5}
+        - {x: 13, y: 5}
+        - {x: 14, y: 7}
+        - {x: 14, y: 16}
+    - name: HF2_Dungeon_1_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -14}
+        - {x: 2, y: -15}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 2, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+    - name: HF2_Dungeon_1_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -10}
+        - {x: -3, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 9}
+        - {x: -16, y: 9}
+        - {x: -16, y: -11}
+        - {x: -15, y: -11}
+        - {x: -12, y: -9}
+        - {x: -12, y: 8}
+    - name: HF2_Dungeon_1_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 5}
+        - {x: 6, y: -1}
+        - {x: 6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+    - name: HF2_Dungeon_1_98
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+    - name: HF2_Dungeon_1_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 3, y: 10}
+    - name: HF2_Dungeon_1_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: -3, y: -6}
+        - {x: -7, y: 7}
+        - {x: -12, y: 7}
+    - name: HF2_Dungeon_1_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -6, y: 11}
+        - {x: -3, y: -15}
+        - {x: -1, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 5, y: -12}
+        - {x: 7, y: -4}
+        - {x: 10, y: 13}
+    - name: HF2_Dungeon_1_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -15}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: HF2_Dungeon_1_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 14}
+        - {x: -15, y: -10}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: 8}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -4}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 6, y: 8}
+        - {x: -2, y: 8}
+        - {x: -9, y: 6}
+    - name: HF2_Dungeon_1_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16}
+        - {x: -5, y: 15}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -15}
+        - {x: 5, y: 10}
+    - name: HF2_Dungeon_1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -14, y: 12}
+        - {x: -14, y: -16}
+        - {x: 7, y: -16}
+        - {x: 11, y: -14}
+        - {x: 11, y: 9}
+        - {x: 8, y: 13}
+      - - {x: 12, y: 16}
+        - {x: 12, y: 15}
+        - {x: 15, y: 12}
+        - {x: 16, y: 12}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 12}
+        - {x: 4, y: 12}
+        - {x: -8, y: 10}
+        - {x: -11, y: 10}
+        - {x: -11, y: -7}
+        - {x: -5, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -5}
+        - {x: 14, y: 8}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 12}
+        - {x: -10, y: 11}
+        - {x: -3, y: 11}
+        - {x: 1, y: 15}
+        - {x: 1, y: 16}
+    - name: HF2_Dungeon_1_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: -5, y: 16}
+      - - {x: -5, y: 16}
+        - {x: -5, y: 14}
+        - {x: 0, y: 10}
+        - {x: 16, y: 10}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 1}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: -4}
+        - {x: 12, y: 1}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 10}
+        - {x: 12, y: 10}
+        - {x: 15, y: 15}
+        - {x: 15, y: 16}
+    - name: HF2_Dungeon_1_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: 6}
+        - {x: -5, y: -3}
+        - {x: 2, y: -5}
+        - {x: 11, y: -5}
+        - {x: 15, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -5}
+        - {x: -14, y: -5}
+        - {x: -9, y: -10}
+        - {x: -7, y: -11}
+        - {x: 1, y: -11}
+        - {x: 5, y: -5}
+        - {x: 5, y: 16}
+    - name: HF2_Dungeon_1_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 2, y: -16}
+        - {x: 2, y: -12}
+        - {x: -1, y: 8}
+        - {x: -4, y: 14}
+        - {x: -10, y: 16}
+    - name: HF2_Dungeon_1_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -6}
+        - {x: 5, y: -14}
+        - {x: 5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+    - name: HF2_Dungeon_1_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 10}
+        - {x: -13, y: 0}
+        - {x: -16, y: -4}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+    - name: HF2_Dungeon_1_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -13, y: 14}
+        - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 8, y: 16}
+    - name: HF2_Dungeon_1_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 15, y: 1}
+    - name: HF2_Dungeon_1_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -3}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -2, y: -15}
+        - {x: -2, y: -12}
+    - name: HF2_Dungeon_1_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -6}
+        - {x: -14, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: 10}
+        - {x: -4, y: 11}
+    - name: HF2_Dungeon_1_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 10}
+        - {x: 2, y: 10}
+      - - {x: -7, y: 5}
+        - {x: -4, y: 6}
+        - {x: -4, y: 9}
+        - {x: -7, y: 10}
+        - {x: -9, y: 8}
+    - name: HF2_Dungeon_1_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: 1}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 6}
+        - {x: -11, y: -14}
+        - {x: -8, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 15, y: 16}
+    - name: HF2_Dungeon_1_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 12}
+        - {x: -1, y: -14}
+        - {x: -1, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+      - - {x: -16, y: 6}
+        - {x: -16, y: -11}
+        - {x: -13, y: -10}
+        - {x: -12, y: -7}
+        - {x: -12, y: 2}
+        - {x: -15, y: 6}
+    - name: HF2_Dungeon_1_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: 16, y: -13}
+        - {x: 2, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: HF2_Dungeon_1_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: 1, y: 13}
+        - {x: 1, y: -9}
+        - {x: 2, y: -13}
+        - {x: 5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 2, y: -16}
+        - {x: 2, y: 16}
+    - name: HF2_Dungeon_1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -6}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 4, y: -4}
+        - {x: 5, y: 1}
+        - {x: 5, y: 8}
+    - name: HF2_Dungeon_1_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -6, y: 9}
+        - {x: -6, y: -5}
+        - {x: -1, y: -9}
+        - {x: 4, y: -9}
+        - {x: 10, y: -5}
+        - {x: 10, y: 16}
+    - name: HF2_Dungeon_1_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: 5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 10, y: 16}
+    - name: HF2_Dungeon_1_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 0}
+        - {x: -13, y: -8}
+        - {x: -14, y: -14}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -7}
+        - {x: 10, y: 0}
+    - name: HF2_Dungeon_1_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 14}
+        - {x: -1, y: 14}
+        - {x: -4, y: 13}
+        - {x: -15, y: 6}
+        - {x: -15, y: -11}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 13, y: 12}
+      - - {x: 3, y: 16}
+        - {x: 4, y: 13}
+        - {x: 9, y: 13}
+        - {x: 11, y: 15}
+        - {x: 11, y: 16}
+    - name: HF2_Dungeon_1_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -11}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -16, y: 15}
+        - {x: -16, y: -14}
+        - {x: -13, y: -14}
+        - {x: -10, y: -9}
+        - {x: -10, y: 6}
+      - - {x: 8, y: 16}
+        - {x: 8, y: 15}
+        - {x: 14, y: 8}
+        - {x: 16, y: 8}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 6}
+        - {x: -12, y: 2}
+        - {x: 4, y: -9}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -15, y: -10}
+        - {x: -9, y: -14}
+        - {x: 4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -10}
+        - {x: -7, y: -10}
+        - {x: 10, y: -2}
+        - {x: 16, y: 4}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 5}
+        - {x: -13, y: 5}
+        - {x: -3, y: 15}
+        - {x: -3, y: 16}
+    - name: HF2_Dungeon_1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -10, y: 16}
+        - {x: -9, y: 10}
+        - {x: -6, y: -12}
+        - {x: -2, y: -15}
+        - {x: 6, y: -15}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+        - {x: 10, y: 11}
+    - name: HF2_Dungeon_1_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -12}
+        - {x: -12, y: -14}
+        - {x: -9, y: -16}
+        - {x: 3, y: -16}
+        - {x: 10, y: -4}
+        - {x: 10, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 15}
+    - name: HF2_Dungeon_1_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -14, y: 6}
+        - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -9}
+        - {x: -13, y: -8}
+        - {x: -13, y: -2}
+        - {x: -15, y: 0}
+        - {x: -16, y: 0}
+    - name: HF2_Dungeon_1_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -7, y: 13}
+        - {x: 12, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: -9, y: -14}
+        - {x: 8, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -8}
+        - {x: -8, y: -8}
+        - {x: 13, y: 11}
+        - {x: 13, y: 16}
+    - name: HF2_Dungeon_1_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -3}
+        - {x: 11, y: -10}
+        - {x: 16, y: -10}
+        - {x: 16, y: -2}
+        - {x: 13, y: -2}
+    - name: HF2_Dungeon_1_169
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -1}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -1}
+    - name: HF2_Dungeon_1_170
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 9}
+        - {x: -9, y: 2}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+    - name: HF2_Dungeon_1_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 1}
+        - {x: -7, y: 9}
+    - name: HF2_Dungeon_1_172
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 1}
+        - {x: -16, y: -1}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 1}
+    - name: HF2_Dungeon_1_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -15, y: -7}
+        - {x: -10, y: -4}
+        - {x: -10, y: 0}
+        - {x: -12, y: 3}
+        - {x: -16, y: 2}
+    - name: HF2_Dungeon_1_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 13}
+        - {x: -1, y: 4}
+        - {x: -4, y: -2}
+        - {x: -4, y: -14}
+        - {x: -3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: 12, y: 16}
+    - name: HF2_Dungeon_1_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -1}
+        - {x: 4, y: 4}
+    - name: HF2_Dungeon_1_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 9}
+        - {x: -11, y: 6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -2}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 14}
+        - {x: 10, y: 16}
+    - name: HF2_Dungeon_1_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -10, y: 16}
+        - {x: -16, y: -2}
+        - {x: -16, y: -11}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -9}
+        - {x: 16, y: -5}
+        - {x: 16, y: 13}
+    - name: HF2_Dungeon_1_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 2}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 1}
+        - {x: 9, y: 16}
+    - name: HF2_Dungeon_1_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -15, y: 9}
+        - {x: -15, y: -14}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+    - name: HF2_Dungeon_1_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -8}
+        - {x: 2, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -8}
+        - {x: 7, y: -5}
+        - {x: 6, y: -5}
+      - - {x: 13, y: -5}
+        - {x: 12, y: -8}
+        - {x: 13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+        - {x: 15, y: -5}
+      - - {x: -16, y: 5}
+        - {x: -16, y: -12}
+        - {x: -13, y: -11}
+        - {x: -12, y: -6}
+        - {x: -12, y: 2}
+        - {x: -15, y: 5}
+    - name: HF2_Dungeon_1_183
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -11, y: -16}
+        - {x: -11, y: 0}
+        - {x: -13, y: 2}
+        - {x: -16, y: 2}
+      - - {x: -7, y: 4}
+        - {x: -11, y: -5}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -6}
+        - {x: -2, y: 6}
+    - name: HF2_Dungeon_1_184
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -13, y: 8}
+        - {x: -16, y: -4}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_187
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 7, y: 16}
+    - name: HF2_Dungeon_1_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 4}
+        - {x: -16, y: 1}
+        - {x: -16, y: -15}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+    - name: HF2_Dungeon_1_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -16}
+        - {x: -5, y: -16}
+        - {x: -4, y: -7}
+        - {x: -7, y: -5}
+        - {x: -12, y: -7}
+    - name: HF2_Dungeon_1_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -10}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -14, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -7}
+        - {x: -13, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 15, y: 16}
+    - name: HF2_Dungeon_1_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -15, y: 8}
+        - {x: -15, y: -11}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+    - name: HF2_Dungeon_1_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -13}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 14, y: 16}
+    - name: HF2_Dungeon_1_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -9, y: 13}
+        - {x: -6, y: 12}
+        - {x: -15, y: 6}
+        - {x: -15, y: -11}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 12, y: 16}
+    - name: HF2_Dungeon_1_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: 1, y: 12}
+        - {x: 1, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: 0}
+        - {x: 9, y: 16}
+      - - {x: 13, y: 16}
+        - {x: 11, y: 7}
+        - {x: 11, y: -6}
+        - {x: 12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_199
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -16}
+        - {x: -11, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: -8, y: 16}
+        - {x: -9, y: 4}
+        - {x: -9, y: -16}
+        - {x: 1, y: -16}
+        - {x: 2, y: 8}
+        - {x: 0, y: 16}
+      - - {x: 11, y: 3}
+        - {x: 7, y: -4}
+        - {x: 7, y: -15}
+        - {x: 8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+    - name: HF2_Dungeon_1_200
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_201
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_203
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_204
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: -5, y: 4}
+        - {x: -11, y: 10}
+      - - {x: -4, y: 16}
+        - {x: -4, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -4}
+        - {x: 6, y: 16}
+      - - {x: 9, y: 16}
+        - {x: 7, y: 5}
+        - {x: 7, y: -5}
+        - {x: 8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_205
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 1}
+        - {x: -13, y: -16}
+        - {x: -3, y: -16}
+        - {x: -3, y: 14}
+        - {x: -5, y: 16}
+    - name: HF2_Dungeon_1_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -9}
+        - {x: 15, y: 0}
+        - {x: 15, y: 13}
+        - {x: 9, y: 15}
+        - {x: -4, y: 15}
+        - {x: -11, y: 10}
+        - {x: -14, y: 6}
+        - {x: -15, y: 3}
+        - {x: -15, y: -10}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 9, y: -13}
+        - {x: 4, y: -13}
+        - {x: 6, y: -13}
+    - name: HF2_Dungeon_1_207
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 11}
+        - {x: -3, y: 11}
+        - {x: -11, y: 10}
+        - {x: -14, y: 7}
+        - {x: -14, y: -8}
+        - {x: -12, y: -13}
+        - {x: -1, y: -13}
+        - {x: 14, y: -6}
+        - {x: 15, y: -1}
+        - {x: 15, y: 8}
+      - - {x: -2, y: 12}
+        - {x: 9, y: 12}
+        - {x: 13, y: 13}
+        - {x: 13, y: 16}
+        - {x: -4, y: 16}
+        - {x: -4, y: 15}
+    - name: HF2_Dungeon_1_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -16}
+        - {x: 9, y: -13}
+        - {x: 1, y: -13}
+        - {x: 0, y: -16}
+      - - {x: 13, y: 11}
+        - {x: 8, y: 15}
+        - {x: -5, y: 15}
+        - {x: -11, y: 6}
+        - {x: -13, y: -3}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 2, y: -16}
+        - {x: 11, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 3}
+    - name: HF2_Dungeon_1_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -9, y: 10}
+        - {x: -10, y: 2}
+        - {x: -10, y: -9}
+        - {x: -7, y: -15}
+        - {x: 4, y: -15}
+        - {x: 12, y: -8}
+        - {x: 12, y: 2}
+        - {x: -1, y: 12}
+    - name: HF2_Dungeon_1_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -12, y: 11}
+        - {x: -12, y: 2}
+        - {x: -6, y: -15}
+        - {x: 3, y: -15}
+        - {x: 10, y: -11}
+        - {x: 10, y: 4}
+        - {x: 7, y: 13}
+    - name: HF2_Dungeon_1_211
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -11, y: 8}
+        - {x: -14, y: 1}
+        - {x: -14, y: -9}
+        - {x: -11, y: -14}
+        - {x: -6, y: -15}
+        - {x: 7, y: -15}
+        - {x: 14, y: -3}
+        - {x: 14, y: 9}
+        - {x: 13, y: 12}
+    - name: HF2_Dungeon_1_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -10}
+        - {x: -10, y: -15}
+        - {x: 10, y: -15}
+        - {x: 12, y: -13}
+        - {x: 12, y: 5}
+        - {x: 9, y: 12}
+    - name: HF2_Dungeon_1_213
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 14}
+        - {x: 7, y: 15}
+        - {x: -3, y: 15}
+        - {x: -13, y: 14}
+        - {x: -14, y: 10}
+        - {x: -14, y: 0}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -4}
+        - {x: 14, y: 1}
+        - {x: 14, y: 9}
+    - name: HF2_Dungeon_1_214
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -2, y: 10}
+        - {x: -1, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_215
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_217
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_218
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_219
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_220
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_221
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 1, y: -16}
+        - {x: 2, y: 2}
+        - {x: 2, y: 10}
+        - {x: -2, y: 16}
+    - name: HF2_Dungeon_1_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -16, y: 13}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 6, y: -16}
+        - {x: 14, y: -14}
+        - {x: 16, y: -8}
+        - {x: 16, y: 11}
+        - {x: 8, y: 15}
+    - name: HF2_Dungeon_1_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_225
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -7}
+        - {x: -13, y: -14}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 3}
+        - {x: 9, y: 16}
+    - name: HF2_Dungeon_1_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -7}
+        - {x: -15, y: -15}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: 16}
+    - name: HF2_Dungeon_1_227
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -14}
+        - {x: -12, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 15}
+        - {x: 5, y: 16}
+        - {x: -11, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 10}
+    - name: HF2_Dungeon_1_229
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -15}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_230
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -4, y: -2}
+        - {x: -4, y: -9}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_231
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_232
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_233
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_234
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_235
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_236
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: HF2_Dungeon_1_237
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -16}
+        - {x: 1, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameLibrary\Character\Action.cs">
+    <Files>
+      <File FileName="..\Learning\Assets\Script\GameManager.cs" Line="118" Column="13" />
+      <File FileName="..\Learning\Assets\Script\BoardManager.cs" Line="77" Column="2" />
+      <File FileName="GameLibrary\Character\Action.cs" Line="151" Column="40" />
+      <File FileName="GameLibrary\Character\Status.cs" Line="33" Column="18" />
+      <File FileName="c:\Users\Gustavo\Documents\begin-reality\GameLibrary\GameLibrary\Enum\ArmadurasEnum.cs" Line="8" Column="24" />
+      <File FileName="GameLibrary\Utils\TurnManager.cs" Line="102" Column="47" />
+      <File FileName="GameLibrary\Board\Square.cs" Line="37" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GameLibrary" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Board" expanded="True" />
+            <Node name="Character" expanded="True">
+              <Node name="Action.cs" selected="True" />
+            </Node>
+            <Node name="ClassesEnum" expanded="True" />
+            <Node name="Enum" expanded="True" />
+            <Node name="Movements" expanded="True" />
+            <Node name="Utils" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

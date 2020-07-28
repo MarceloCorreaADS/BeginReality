@@ -1,0 +1,23 @@
+diff a/GameLibrary/GameLibrary.userprefs b/GameLibrary/GameLibrary.userprefs	(rejected hunks)
+@@ -1,31 +1,11 @@
+ ﻿<Properties>
+-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+-  <MonoDevelop.Ide.Workbench ActiveDocument="GameLibrary\Character\Player.cs">
+-    <Files>
+-      <File FileName="..\Learning\Assets\Script\GameManager.cs" Line="59" Column="1" />
+-      <File FileName="GameLibrary\Board\Grid.cs" Line="132" Column="7" />
+-      <File FileName="GameLibrary\Board\Pathfinding.cs" Line="39" Column="41" />
+-      <File FileName="GameLibrary\Movements\Move.cs" Line="40" Column="13" />
+-      <File FileName="GameLibrary\Movements\MovingObject.cs" Line="130" Column="9" />
+-      <File FileName="GameLibrary\Character\Action.cs" Line="115" Column="10" />
+-      <File FileName="c:\Users\Kevim\Documents\begin-reality\GameLibrary\GameLibrary\Utils\TurnManager.cs" Line="65" Column="23" />
+-      <File FileName="GameLibrary\Board\Square.cs" Line="16" Column="51" />
+-      <File FileName="..\Learning\Assets\Script\BoardManager.cs" Line="64" Column="64" />
+-      <File FileName="GameLibrary\Character\Player.cs" Line="91" Column="35" />
++      <File FileName="GameLibrary\Character\Player.cs" Line="91" Column="17" />
++      <File FileName="c:\Users\Gustavo\Documents\begin-reality\GameLibrary\GameLibrary\Character\Status.cs" Line="34" Column="25" />
++      <File FileName="GameLibrary\Movements\MovingObject.cs" Line="119" Column="21" />
++      <File FileName="GameLibrary\Character\Action.cs" Line="141" Column="23" />
+     </Files>
+   </MonoDevelop.Ide.Workbench>
+   <MonoDevelop.Ide.DebuggingService.Breakpoints>

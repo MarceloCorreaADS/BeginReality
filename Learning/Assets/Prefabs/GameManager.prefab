@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &111290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 415320}
+  - 114: {fileID: 11446442}
+  - 114: {fileID: 11475234}
+  - 114: {fileID: 11474946}
+  - 114: {fileID: 11411978}
+  - 114: {fileID: 11488992}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &169490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 497030}
+  - 114: {fileID: 11427188}
+  m_Layer: 0
+  m_Name: ConsoleButtons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &415320
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 111290}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 497030}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &497030
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169490}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 415320}
+  m_RootOrder: 0
+--- !u!114 &11411978
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 111290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7a09ae45796e114f873901a1df09dac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  input: {fileID: 0}
+  executar: {fileID: 0}
+--- !u!114 &11427188
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1749731920, guid: c4733bd207936494eb7a6fbd7134c57d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  btnReport: {fileID: 0}
+  btnBattle: {fileID: 0}
+  btnHistory: {fileID: 0}
+  btnMission: {fileID: 0}
+  btnMenu: {fileID: 0}
+  text: {fileID: 0}
+  scrollRect: {fileID: 0}
+--- !u!114 &11446442
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 111290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4557a9885556b34492e4fbcd1214271, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 135632, guid: 071968dc9b0172c4ebe15b6455c75432, type: 2}
+  playerPrefabs:
+  - {fileID: 118736, guid: 1e507968328d92142813d8469d25aa34, type: 2}
+  qtyEnemies: 2
+  qtyAlly: 3
+  squares: []
+--- !u!114 &11474946
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 111290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1612220311, guid: c4733bd207936494eb7a6fbd7134c57d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moves: []
+  teamTurn: 
+  turnActive: 0
+  players: []
+--- !u!114 &11475234
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 111290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df6537edde3e1e41ae443ce0d68e439, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turnManager: {fileID: 0}
+  unitBackground: {fileID: 114980, guid: 9c99a96a9e039574a89bc612bbdc7431, type: 2}
+--- !u!114 &11488992
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 111290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -105064919, guid: c4733bd207936494eb7a6fbd7134c57d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  columns: 12
+  rows: 8
+  floorTiles:
+  - {fileID: 100052, guid: 26beae14e0da4434e8ceacc799c86322, type: 2}
+  outerWallTiles:
+  - {fileID: 136118, guid: 8a0ab249286350c47aab9a7f78aa6485, type: 2}
+  tileObjectList: {fileID: 0}
+  squares: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 111290}
+  m_IsPrefabParent: 1

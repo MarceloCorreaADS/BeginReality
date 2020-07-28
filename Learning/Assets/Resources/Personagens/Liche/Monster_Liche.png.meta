@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: b38d2611d78672341bf55e586eee5977
+timeCreated: 1463249855
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Liche_0
+    21300002: Monster_Liche_1
+    21300004: Monster_Liche_2
+    21300006: Monster_Liche_3
+    21300008: Monster_Liche_4
+    21300010: Monster_Liche_5
+    21300012: Monster_Liche_6
+    21300014: Monster_Liche_7
+    21300016: Monster_Liche_8
+    21300018: Monster_Liche_9
+    21300020: Monster_Liche_10
+    21300022: Monster_Liche_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_Liche_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 35}
+        - {x: -14, y: 28}
+        - {x: -14, y: -17}
+        - {x: -11, y: -35}
+        - {x: 0, y: -35}
+        - {x: 28, y: -18}
+        - {x: 28, y: 14}
+        - {x: 20, y: 35}
+    - name: Monster_Liche_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 35}
+        - {x: -15, y: 34}
+        - {x: -16, y: 16}
+        - {x: -16, y: -32}
+        - {x: 14, y: -32}
+        - {x: 31, y: -9}
+        - {x: 31, y: 22}
+        - {x: 12, y: 35}
+    - name: Monster_Liche_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 35}
+        - {x: -13, y: 35}
+        - {x: -13, y: -11}
+        - {x: -7, y: -35}
+        - {x: 9, y: -35}
+        - {x: 33, y: -2}
+        - {x: 33, y: 9}
+        - {x: 28, y: 16}
+    - name: Monster_Liche_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 35}
+        - {x: -21, y: -3}
+        - {x: -21, y: -22}
+        - {x: -18, y: -26}
+        - {x: -4, y: -31}
+        - {x: 24, y: -31}
+        - {x: 28, y: -15}
+        - {x: 28, y: 19}
+        - {x: 11, y: 35}
+    - name: Monster_Liche_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 35}
+        - {x: -11, y: -33}
+        - {x: 15, y: -33}
+        - {x: 30, y: 3}
+        - {x: 30, y: 31}
+        - {x: 18, y: 35}
+    - name: Monster_Liche_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 35}
+        - {x: -16, y: 35}
+        - {x: -20, y: 30}
+        - {x: -22, y: 16}
+        - {x: -22, y: -29}
+        - {x: 24, y: -29}
+        - {x: 33, y: -7}
+        - {x: 33, y: 30}
+      - - {x: 22, y: -26}
+        - {x: 25, y: -25}
+        - {x: 25, y: -22}
+        - {x: 22, y: -21}
+        - {x: 20, y: -23}
+    - name: Monster_Liche_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 35}
+        - {x: -22, y: 0}
+        - {x: -22, y: -25}
+        - {x: -8, y: -30}
+        - {x: 26, y: -30}
+        - {x: 29, y: -14}
+        - {x: 29, y: 18}
+        - {x: 10, y: 35}
+      - - {x: -19, y: -25}
+        - {x: -18, y: -28}
+        - {x: -15, y: -28}
+        - {x: -13, y: -26}
+        - {x: -14, y: -23}
+        - {x: -17, y: -23}
+    - name: Monster_Liche_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 34}
+        - {x: 11, y: 35}
+        - {x: -10, y: 35}
+        - {x: -10, y: -25}
+        - {x: -9, y: -33}
+        - {x: 7, y: -33}
+        - {x: 13, y: -31}
+        - {x: 29, y: -2}
+        - {x: 31, y: 6}
+        - {x: 31, y: 10}
+    - name: Monster_Liche_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 13}
+        - {x: 10, y: 35}
+        - {x: -6, y: 35}
+        - {x: -12, y: 33}
+        - {x: -24, y: -12}
+        - {x: -24, y: -23}
+        - {x: -17, y: -30}
+        - {x: -4, y: -30}
+        - {x: 21, y: -26}
+        - {x: 33, y: -9}
+        - {x: 33, y: 7}
+        - {x: 30, y: 16}
+    - name: Monster_Liche_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -35}
+        - {x: 30, y: -14}
+        - {x: 30, y: 7}
+        - {x: 9, y: 35}
+        - {x: -14, y: 35}
+        - {x: -14, y: -35}
+    - name: Monster_Liche_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 12}
+        - {x: 11, y: 31}
+        - {x: 7, y: 35}
+        - {x: -6, y: 35}
+        - {x: -11, y: 31}
+        - {x: -16, y: 10}
+        - {x: -16, y: -27}
+        - {x: -7, y: -30}
+        - {x: 15, y: -30}
+        - {x: 31, y: -20}
+        - {x: 31, y: 16}
+        - {x: 21, y: 15}
+    - name: Monster_Liche_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -35}
+        - {x: -4, y: -33}
+        - {x: -7, y: -32}
+        - {x: -9, y: -35}
+      - - {x: -13, y: 35}
+        - {x: -13, y: -28}
+        - {x: -11, y: -35}
+        - {x: 15, y: -35}
+        - {x: 32, y: -7}
+        - {x: 32, y: 31}
+        - {x: 29, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

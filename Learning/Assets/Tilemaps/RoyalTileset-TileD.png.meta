@@ -1,0 +1,2079 @@
+fileFormatVersion: 2
+guid: 9c0b88b9bde78c149b53843ccac2dcb6
+timeCreated: 1456605144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RoyalTileset-TileD_0
+    21300002: RoyalTileset-TileD_1
+    21300004: RoyalTileset-TileD_2
+    21300006: RoyalTileset-TileD_3
+    21300008: RoyalTileset-TileD_4
+    21300010: RoyalTileset-TileD_5
+    21300012: RoyalTileset-TileD_6
+    21300014: RoyalTileset-TileD_7
+    21300016: RoyalTileset-TileD_8
+    21300018: RoyalTileset-TileD_9
+    21300020: RoyalTileset-TileD_10
+    21300022: RoyalTileset-TileD_11
+    21300024: RoyalTileset-TileD_12
+    21300026: RoyalTileset-TileD_13
+    21300028: RoyalTileset-TileD_14
+    21300030: RoyalTileset-TileD_15
+    21300032: RoyalTileset-TileD_16
+    21300034: RoyalTileset-TileD_17
+    21300036: RoyalTileset-TileD_18
+    21300038: RoyalTileset-TileD_19
+    21300040: RoyalTileset-TileD_20
+    21300042: RoyalTileset-TileD_21
+    21300044: RoyalTileset-TileD_22
+    21300046: RoyalTileset-TileD_23
+    21300048: RoyalTileset-TileD_24
+    21300050: RoyalTileset-TileD_25
+    21300052: RoyalTileset-TileD_26
+    21300054: RoyalTileset-TileD_27
+    21300056: RoyalTileset-TileD_28
+    21300058: RoyalTileset-TileD_29
+    21300060: RoyalTileset-TileD_30
+    21300062: RoyalTileset-TileD_31
+    21300064: RoyalTileset-TileD_32
+    21300066: RoyalTileset-TileD_33
+    21300068: RoyalTileset-TileD_34
+    21300070: RoyalTileset-TileD_35
+    21300072: RoyalTileset-TileD_36
+    21300074: RoyalTileset-TileD_37
+    21300076: RoyalTileset-TileD_38
+    21300078: RoyalTileset-TileD_39
+    21300080: RoyalTileset-TileD_40
+    21300082: RoyalTileset-TileD_41
+    21300084: RoyalTileset-TileD_42
+    21300086: RoyalTileset-TileD_43
+    21300088: RoyalTileset-TileD_44
+    21300090: RoyalTileset-TileD_45
+    21300092: RoyalTileset-TileD_46
+    21300094: RoyalTileset-TileD_47
+    21300096: RoyalTileset-TileD_48
+    21300098: RoyalTileset-TileD_49
+    21300100: RoyalTileset-TileD_50
+    21300102: RoyalTileset-TileD_51
+    21300104: RoyalTileset-TileD_52
+    21300106: RoyalTileset-TileD_53
+    21300108: RoyalTileset-TileD_54
+    21300110: RoyalTileset-TileD_55
+    21300112: RoyalTileset-TileD_56
+    21300114: RoyalTileset-TileD_57
+    21300116: RoyalTileset-TileD_58
+    21300118: RoyalTileset-TileD_59
+    21300120: RoyalTileset-TileD_60
+    21300122: RoyalTileset-TileD_61
+    21300124: RoyalTileset-TileD_62
+    21300126: RoyalTileset-TileD_63
+    21300128: RoyalTileset-TileD_64
+    21300130: RoyalTileset-TileD_65
+    21300132: RoyalTileset-TileD_66
+    21300134: RoyalTileset-TileD_67
+    21300136: RoyalTileset-TileD_68
+    21300138: RoyalTileset-TileD_69
+    21300140: RoyalTileset-TileD_70
+    21300142: RoyalTileset-TileD_71
+    21300144: RoyalTileset-TileD_72
+    21300146: RoyalTileset-TileD_73
+    21300148: RoyalTileset-TileD_74
+    21300150: RoyalTileset-TileD_75
+    21300152: RoyalTileset-TileD_76
+    21300154: RoyalTileset-TileD_77
+    21300156: RoyalTileset-TileD_78
+    21300158: RoyalTileset-TileD_79
+    21300160: RoyalTileset-TileD_80
+    21300162: RoyalTileset-TileD_81
+    21300164: RoyalTileset-TileD_82
+    21300166: RoyalTileset-TileD_83
+    21300168: RoyalTileset-TileD_84
+    21300170: RoyalTileset-TileD_85
+    21300172: RoyalTileset-TileD_86
+    21300174: RoyalTileset-TileD_87
+    21300176: RoyalTileset-TileD_88
+    21300178: RoyalTileset-TileD_89
+    21300180: RoyalTileset-TileD_90
+    21300182: RoyalTileset-TileD_91
+    21300184: RoyalTileset-TileD_92
+    21300186: RoyalTileset-TileD_93
+    21300188: RoyalTileset-TileD_94
+    21300190: RoyalTileset-TileD_95
+    21300192: RoyalTileset-TileD_96
+    21300194: RoyalTileset-TileD_97
+    21300196: RoyalTileset-TileD_98
+    21300198: RoyalTileset-TileD_99
+    21300200: RoyalTileset-TileD_100
+    21300202: RoyalTileset-TileD_101
+    21300204: RoyalTileset-TileD_102
+    21300206: RoyalTileset-TileD_103
+    21300208: RoyalTileset-TileD_104
+    21300210: RoyalTileset-TileD_105
+    21300212: RoyalTileset-TileD_106
+    21300214: RoyalTileset-TileD_107
+    21300216: RoyalTileset-TileD_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RoyalTileset-TileD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 4}
+        - {x: 2, y: -11}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 15, y: 6}
+    - name: RoyalTileset-TileD_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 1}
+        - {x: -12, y: 4}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -4, y: -16}
+        - {x: -2, y: -14}
+        - {x: -2, y: -6}
+        - {x: -4, y: -5}
+    - name: RoyalTileset-TileD_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: 0, y: 16}
+        - {x: -7, y: 4}
+        - {x: -13, y: -11}
+        - {x: -13, y: -14}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+    - name: RoyalTileset-TileD_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 3}
+        - {x: 6, y: 15}
+        - {x: -15, y: 15}
+        - {x: -16, y: 14}
+    - name: RoyalTileset-TileD_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 6}
+        - {x: -7, y: -13}
+        - {x: -7, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 11, y: 6}
+    - name: RoyalTileset-TileD_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 13}
+        - {x: 5, y: 16}
+    - name: RoyalTileset-TileD_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -10, y: 6}
+        - {x: -14, y: -12}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 12, y: 16}
+    - name: RoyalTileset-TileD_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 8}
+        - {x: 0, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 15}
+    - name: RoyalTileset-TileD_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -8, y: -2}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -12}
+        - {x: 4, y: 5}
+      - - {x: 12, y: -3}
+        - {x: 12, y: -4}
+        - {x: 14, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 0}
+        - {x: 15, y: 0}
+    - name: RoyalTileset-TileD_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 12, y: 16}
+    - name: RoyalTileset-TileD_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 15, y: 16}
+    - name: RoyalTileset-TileD_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 13, y: 16}
+    - name: RoyalTileset-TileD_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -16, y: -9}
+        - {x: -15, y: -10}
+        - {x: -12, y: -9}
+        - {x: -12, y: -1}
+        - {x: -14, y: 0}
+    - name: RoyalTileset-TileD_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -10, y: 15}
+        - {x: -8, y: -2}
+        - {x: 2, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: -5, y: -7}
+        - {x: 5, y: -3}
+        - {x: 8, y: 2}
+        - {x: 9, y: 8}
+      - - {x: 13, y: 3}
+        - {x: 15, y: 1}
+        - {x: 16, y: 1}
+        - {x: 16, y: 6}
+        - {x: 14, y: 6}
+    - name: RoyalTileset-TileD_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -4, y: -16}
+        - {x: 13, y: -15}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -5}
+        - {x: 7, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 9}
+        - {x: -16, y: 0}
+        - {x: -15, y: -1}
+        - {x: -12, y: 0}
+        - {x: -12, y: 8}
+        - {x: -14, y: 9}
+    - name: RoyalTileset-TileD_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -14, y: 10}
+        - {x: -16, y: -9}
+        - {x: -8, y: -15}
+        - {x: 10, y: -15}
+        - {x: 14, y: -6}
+        - {x: 14, y: 5}
+        - {x: 12, y: 11}
+    - name: RoyalTileset-TileD_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -15, y: 10}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 13, y: 12}
+    - name: RoyalTileset-TileD_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -14, y: 12}
+        - {x: -14, y: -11}
+        - {x: -9, y: -15}
+        - {x: 8, y: -15}
+        - {x: 13, y: -13}
+        - {x: 14, y: -11}
+        - {x: 14, y: 4}
+        - {x: 9, y: 15}
+    - name: RoyalTileset-TileD_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -14, y: 13}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 9}
+        - {x: 6, y: 16}
+      - - {x: 12, y: 14}
+        - {x: 12, y: 16}
+        - {x: 7, y: 16}
+        - {x: 9, y: 13}
+    - name: RoyalTileset-TileD_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 7, y: 16}
+      - - {x: 12, y: 14}
+        - {x: 12, y: 16}
+        - {x: 7, y: 16}
+        - {x: 9, y: 13}
+    - name: RoyalTileset-TileD_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -7, y: 16}
+        - {x: -15, y: 8}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: -4}
+        - {x: 13, y: 11}
+    - name: RoyalTileset-TileD_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -16, y: 13}
+        - {x: -16, y: -13}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 2}
+        - {x: 7, y: 15}
+      - - {x: 13, y: 5}
+        - {x: 15, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: 8}
+        - {x: 14, y: 8}
+    - name: RoyalTileset-TileD_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 6, y: 16}
+    - name: RoyalTileset-TileD_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -13, y: -10}
+        - {x: -13, y: -7}
+        - {x: -15, y: -5}
+        - {x: -16, y: -5}
+    - name: RoyalTileset-TileD_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 13}
+        - {x: -15, y: 13}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 13, y: 12}
+    - name: RoyalTileset-TileD_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -15, y: -12}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+        - {x: 1, y: 13}
+    - name: RoyalTileset-TileD_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 13}
+        - {x: -16, y: 11}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 9}
+        - {x: 11, y: 13}
+      - - {x: 13, y: 10}
+        - {x: 15, y: 8}
+        - {x: 16, y: 8}
+        - {x: 16, y: 13}
+        - {x: 14, y: 13}
+    - name: RoyalTileset-TileD_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -15}
+        - {x: 16, y: -13}
+        - {x: 16, y: 10}
+    - name: RoyalTileset-TileD_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 12}
+        - {x: 13, y: 16}
+    - name: RoyalTileset-TileD_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -12}
+        - {x: -13, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+    - name: RoyalTileset-TileD_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6}
+        - {x: -13, y: -5}
+        - {x: -13, y: -2}
+        - {x: -15, y: 0}
+        - {x: -16, y: 0}
+    - name: RoyalTileset-TileD_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 15}
+        - {x: -11, y: 15}
+        - {x: -13, y: 14}
+        - {x: -15, y: 9}
+        - {x: -15, y: -13}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 10}
+    - name: RoyalTileset-TileD_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 4}
+        - {x: 3, y: -7}
+        - {x: 3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 9, y: 6}
+      - - {x: 5, y: 16}
+        - {x: 6, y: 13}
+        - {x: 9, y: 13}
+        - {x: 11, y: 15}
+        - {x: 11, y: 16}
+    - name: RoyalTileset-TileD_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 15, y: 11}
+    - name: RoyalTileset-TileD_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 11}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+      - - {x: -7, y: 14}
+        - {x: -7, y: 16}
+        - {x: -12, y: 16}
+        - {x: -10, y: 13}
+    - name: RoyalTileset-TileD_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 8, y: 11}
+    - name: RoyalTileset-TileD_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -3, y: -2}
+        - {x: -4, y: 4}
+        - {x: -8, y: 6}
+        - {x: -16, y: 6}
+    - name: RoyalTileset-TileD_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -5, y: 12}
+        - {x: -7, y: 8}
+        - {x: -7, y: -7}
+        - {x: -6, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 14, y: 14}
+    - name: RoyalTileset-TileD_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 12}
+        - {x: 4, y: 16}
+      - - {x: 11, y: 14}
+        - {x: 11, y: 16}
+        - {x: 6, y: 16}
+        - {x: 8, y: 13}
+    - name: RoyalTileset-TileD_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 15}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 15}
+        - {x: 15, y: 16}
+    - name: RoyalTileset-TileD_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 1, y: -16}
+        - {x: 16, y: 12}
+        - {x: 16, y: 16}
+      - - {x: 10, y: 11}
+        - {x: 4, y: 5}
+        - {x: 5, y: 2}
+        - {x: 15, y: 2}
+        - {x: 16, y: 3}
+        - {x: 16, y: 10}
+        - {x: 13, y: 11}
+    - name: RoyalTileset-TileD_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: 3}
+        - {x: -13, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 1}
+        - {x: 15, y: 16}
+    - name: RoyalTileset-TileD_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: 13}
+        - {x: -1, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      - - {x: -13, y: 11}
+        - {x: -16, y: 10}
+        - {x: -16, y: 3}
+        - {x: -15, y: 2}
+        - {x: -6, y: 2}
+        - {x: -4, y: 4}
+        - {x: -5, y: 7}
+        - {x: -10, y: 11}
+    - name: RoyalTileset-TileD_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -16}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: 14, y: -2}
+        - {x: 11, y: -10}
+        - {x: 11, y: -14}
+        - {x: 13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+      - - {x: 13, y: 5}
+        - {x: 15, y: 3}
+        - {x: 16, y: 3}
+        - {x: 16, y: 8}
+        - {x: 14, y: 8}
+    - name: RoyalTileset-TileD_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 12, y: 16}
+    - name: RoyalTileset-TileD_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 15, y: 16}
+    - name: RoyalTileset-TileD_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -11}
+        - {x: -13, y: -10}
+        - {x: -13, y: -7}
+        - {x: -15, y: -5}
+        - {x: -16, y: -5}
+    - name: RoyalTileset-TileD_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: 4, y: -2}
+        - {x: 8, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: 2, y: -7}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+        - {x: 4, y: 16}
+    - name: RoyalTileset-TileD_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -5}
+        - {x: 16, y: -5}
+        - {x: 16, y: 14}
+        - {x: -16, y: 14}
+    - name: RoyalTileset-TileD_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -5}
+        - {x: -2, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: -7, y: -7}
+        - {x: -4, y: -2}
+        - {x: -4, y: 16}
+    - name: RoyalTileset-TileD_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 14, y: 15}
+    - name: RoyalTileset-TileD_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 11}
+        - {x: -14, y: -3}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 11}
+    - name: RoyalTileset-TileD_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -7}
+        - {x: 12, y: -1}
+        - {x: -1, y: 11}
+    - name: RoyalTileset-TileD_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -10}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 6, y: 6}
+        - {x: -3, y: 5}
+    - name: RoyalTileset-TileD_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -1}
+        - {x: -2, y: 6}
+        - {x: -16, y: 6}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: -12}
+        - {x: 9, y: -9}
+        - {x: 8, y: -9}
+    - name: RoyalTileset-TileD_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+    - name: RoyalTileset-TileD_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 9}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: -12, y: 9}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 13}
+        - {x: -1, y: 13}
+        - {x: 0, y: 15}
+        - {x: 0, y: 16}
+      - - {x: 11, y: 14}
+        - {x: 11, y: 16}
+        - {x: 6, y: 16}
+        - {x: 8, y: 13}
+    - name: RoyalTileset-TileD_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 2}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+      - - {x: -10, y: 16}
+        - {x: -9, y: 13}
+        - {x: 8, y: 13}
+        - {x: 9, y: 15}
+        - {x: 9, y: 16}
+    - name: RoyalTileset-TileD_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -14, y: 14}
+        - {x: -14, y: -9}
+        - {x: 15, y: -9}
+        - {x: 16, y: -8}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -8}
+        - {x: 12, y: -8}
+        - {x: 13, y: -5}
+        - {x: 13, y: 16}
+    - name: RoyalTileset-TileD_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -7}
+        - {x: 15, y: -7}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -6, y: -8}
+        - {x: 3, y: -8}
+        - {x: 8, y: -6}
+        - {x: 13, y: -2}
+        - {x: 13, y: 9}
+    - name: RoyalTileset-TileD_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -14}
+        - {x: 2, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -7}
+        - {x: 9, y: -7}
+    - name: RoyalTileset-TileD_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 1}
+        - {x: -16, y: -1}
+        - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: 1, y: -8}
+        - {x: 1, y: -1}
+        - {x: -3, y: 1}
+    - name: RoyalTileset-TileD_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -11}
+        - {x: 9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+        - {x: 15, y: -8}
+    - name: RoyalTileset-TileD_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -8, y: -16}
+        - {x: -8, y: -12}
+        - {x: -10, y: -5}
+        - {x: -15, y: -5}
+        - {x: -16, y: -6}
+      - - {x: 3, y: -9}
+        - {x: -3, y: -15}
+        - {x: -3, y: -16}
+        - {x: 7, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: -10}
+        - {x: 7, y: -9}
+    - name: RoyalTileset-TileD_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 5}
+        - {x: 2, y: -12}
+        - {x: 3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 14, y: 5}
+    - name: RoyalTileset-TileD_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: -16, y: 2}
+    - name: RoyalTileset-TileD_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 5}
+        - {x: -16, y: 3}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -2, y: -14}
+        - {x: -2, y: 5}
+    - name: RoyalTileset-TileD_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 15}
+    - name: RoyalTileset-TileD_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 16}
+        - {x: -5, y: 7}
+        - {x: -5, y: -8}
+        - {x: -3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 0, y: -16}
+        - {x: 0, y: -7}
+        - {x: -2, y: 16}
+    - name: RoyalTileset-TileD_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -4, y: 4}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 3, y: -16}
+        - {x: 3, y: -12}
+        - {x: 1, y: -10}
+        - {x: 6, y: 8}
+    - name: RoyalTileset-TileD_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: 3, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -16}
+        - {x: -3, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: RoyalTileset-TileD_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -4, y: -9}
+        - {x: -2, y: -14}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -2, y: -14}
+        - {x: 0, y: -12}
+        - {x: 0, y: 16}
+    - name: RoyalTileset-TileD_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -4, y: -11}
+        - {x: -2, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: 1, y: -13}
+        - {x: 3, y: -11}
+        - {x: 3, y: 16}
+    - name: RoyalTileset-TileD_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: 2, y: -1}
+        - {x: 4, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -2}
+        - {x: -4, y: -2}
+        - {x: -2, y: 0}
+        - {x: -2, y: 12}
+        - {x: -3, y: 16}
+    - name: RoyalTileset-TileD_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 5}
+        - {x: 6, y: 12}
+        - {x: -5, y: 12}
+        - {x: -11, y: 0}
+        - {x: -14, y: -7}
+        - {x: -14, y: -9}
+        - {x: -16, y: -13}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -11}
+        - {x: 15, y: -8}
+    - name: RoyalTileset-TileD_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: -15, y: -6}
+        - {x: 14, y: -6}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: RoyalTileset-TileD_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 5}
+        - {x: -13, y: 6}
+        - {x: -13, y: 11}
+        - {x: -15, y: 13}
+        - {x: -16, y: 13}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

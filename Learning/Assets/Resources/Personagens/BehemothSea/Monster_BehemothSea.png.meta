@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 91d0f93d422575647ad14e5590bbd361
+timeCreated: 1463249033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_BehemothSea_0
+    21300002: Monster_BehemothSea_1
+    21300004: Monster_BehemothSea_2
+    21300006: Monster_BehemothSea_3
+    21300008: Monster_BehemothSea_4
+    21300010: Monster_BehemothSea_5
+    21300012: Monster_BehemothSea_6
+    21300014: Monster_BehemothSea_7
+    21300016: Monster_BehemothSea_8
+    21300018: Monster_BehemothSea_9
+    21300020: Monster_BehemothSea_10
+    21300022: Monster_BehemothSea_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_BehemothSea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 0}
+        - {x: -49, y: -95}
+        - {x: -16, y: -105}
+        - {x: 64, y: -105}
+        - {x: 64, y: 24}
+        - {x: 62, y: 50}
+        - {x: 0, y: 108}
+        - {x: -9, y: 108}
+        - {x: -14, y: 107}
+    - name: Monster_BehemothSea_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 660
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 109}
+        - {x: -7, y: 104}
+        - {x: -36, y: 40}
+        - {x: -49, y: -7}
+        - {x: -52, y: -66}
+        - {x: -52, y: -86}
+        - {x: -35, y: -92}
+        - {x: -34, y: -93}
+        - {x: 55, y: -93}
+        - {x: 55, y: 44}
+        - {x: 8, y: 109}
+    - name: Monster_BehemothSea_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 660
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 108}
+        - {x: -56, y: 15}
+        - {x: -63, y: -32}
+        - {x: -63, y: -105}
+        - {x: 32, y: -105}
+        - {x: 55, y: -93}
+        - {x: 55, y: 31}
+        - {x: 20, y: 108}
+    - name: Monster_BehemothSea_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 34}
+        - {x: -51, y: 34}
+        - {x: -115, y: -16}
+        - {x: -115, y: -109}
+        - {x: 111, y: -109}
+        - {x: 120, y: -18}
+        - {x: 120, y: 12}
+        - {x: 117, y: 19}
+    - name: Monster_BehemothSea_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 440
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 36}
+        - {x: -117, y: -7}
+        - {x: -117, y: -39}
+        - {x: -93, y: -102}
+        - {x: 66, y: -102}
+        - {x: 117, y: -91}
+        - {x: 125, y: -32}
+        - {x: 125, y: 2}
+        - {x: 17, y: 36}
+    - name: Monster_BehemothSea_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 440
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 34}
+        - {x: -32, y: 34}
+        - {x: -115, y: -13}
+        - {x: -115, y: -76}
+        - {x: -96, y: -100}
+        - {x: 75, y: -100}
+        - {x: 120, y: -59}
+        - {x: 120, y: 11}
+        - {x: 118, y: 11}
+    - name: Monster_BehemothSea_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 33}
+        - {x: -54, y: 28}
+        - {x: -120, y: 7}
+        - {x: -120, y: -75}
+        - {x: -117, y: -91}
+        - {x: -76, y: -101}
+        - {x: 101, y: -101}
+        - {x: 115, y: -47}
+        - {x: 115, y: -12}
+        - {x: 22, y: 33}
+      - - {x: 122, y: -7}
+        - {x: 124, y: -9}
+        - {x: 125, y: -9}
+        - {x: 125, y: -2}
+        - {x: 122, y: -3}
+    - name: Monster_BehemothSea_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 220
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 35}
+        - {x: -125, y: 12}
+        - {x: -125, y: -68}
+        - {x: -56, y: -103}
+        - {x: 117, y: -103}
+        - {x: 117, y: -6}
+        - {x: 51, y: 35}
+      - - {x: 122, y: 1}
+        - {x: 124, y: -1}
+        - {x: 125, y: -1}
+        - {x: 125, y: 7}
+        - {x: 122, y: 6}
+    - name: Monster_BehemothSea_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 220
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 33}
+        - {x: -120, y: 29}
+        - {x: -120, y: -79}
+        - {x: -111, y: -107}
+        - {x: 97, y: -107}
+        - {x: 115, y: -75}
+        - {x: 115, y: -12}
+        - {x: 16, y: 33}
+      - - {x: 122, y: 1}
+        - {x: 124, y: -1}
+        - {x: 125, y: -1}
+        - {x: 125, y: 7}
+        - {x: 122, y: 6}
+    - name: Monster_BehemothSea_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 73}
+        - {x: -63, y: 41}
+        - {x: -63, y: -72}
+        - {x: -54, y: -99}
+        - {x: -48, y: -103}
+        - {x: 5, y: -103}
+        - {x: 47, y: -88}
+        - {x: 54, y: -58}
+        - {x: 54, y: 41}
+        - {x: 22, y: 73}
+    - name: Monster_BehemothSea_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 78}
+        - {x: -52, y: 78}
+        - {x: -52, y: -78}
+        - {x: -49, y: -79}
+        - {x: 39, y: -79}
+        - {x: 49, y: -72}
+        - {x: 54, y: -37}
+        - {x: 54, y: 51}
+    - name: Monster_BehemothSea_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 73}
+        - {x: -42, y: 62}
+        - {x: -49, y: 21}
+        - {x: -49, y: -89}
+        - {x: -42, y: -105}
+        - {x: 64, y: -105}
+        - {x: 64, y: 30}
+        - {x: 37, y: 73}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

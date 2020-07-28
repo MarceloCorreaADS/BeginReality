@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 9a6a18001708df44d95276c865a274db
+timeCreated: 1463249896
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Wyrm_Pose_0
+    21300002: Monster_Wyrm_Pose_1
+    21300004: Monster_Wyrm_Pose_2
+    21300006: Monster_Wyrm_Pose_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_Wyrm_Pose_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 75}
+        - {x: -78, y: 75}
+        - {x: -111, y: 41}
+        - {x: -111, y: 32}
+        - {x: -109, y: 31}
+        - {x: -85, y: 31}
+        - {x: -69, y: 44}
+        - {x: -58, y: 56}
+        - {x: -46, y: 61}
+        - {x: -61, y: 51}
+        - {x: -82, y: 14}
+        - {x: -83, y: 2}
+        - {x: -24, y: -51}
+        - {x: -11, y: -41}
+        - {x: -11, y: -34}
+        - {x: -9, y: -72}
+        - {x: -3, y: -90}
+        - {x: 26, y: -90}
+        - {x: 72, y: -8}
+        - {x: 72, y: 20}
+        - {x: 43, y: 70}
+    - name: Monster_Wyrm_Pose_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 84}
+        - {x: -108, y: 23}
+        - {x: -108, y: -35}
+        - {x: -63, y: -62}
+        - {x: 68, y: -62}
+        - {x: 90, y: -50}
+        - {x: 90, y: 48}
+        - {x: 43, y: 84}
+    - name: Monster_Wyrm_Pose_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 41}
+        - {x: 27, y: 48}
+        - {x: -87, y: 48}
+        - {x: -87, y: -51}
+        - {x: -62, y: -76}
+        - {x: 0, y: -76}
+        - {x: 109, y: -24}
+        - {x: 110, y: -21}
+        - {x: 110, y: 4}
+    - name: Monster_Wyrm_Pose_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 68}
+        - {x: -72, y: -2}
+        - {x: -72, y: -66}
+        - {x: 88, y: -66}
+        - {x: 110, y: -40}
+        - {x: 110, y: -14}
+        - {x: 20, y: 68}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{99A0ACEB-DEA6-4F05-B9A6-11DE57FD2438}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>GameLibrary</RootNamespace>
+    <AssemblyName>GameLibrary</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>..\..\Learning\Assets\Plugins\</OutputPath>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\Learning\dll\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\Learning\dll\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Board\BlockPos.cs" />
+    <Compile Include="Board\BoardSpec.cs" />
+    <Compile Include="Board\TileObject.cs" />
+    <Compile Include="Board\TileObjectList.cs" />
+    <Compile Include="Character\AtributosBase.cs" />
+    <Compile Include="Character\AttributeName.cs" />
+    <Compile Include="Character\DistribuidorAtributos.cs" />
+    <Compile Include="Character\Habilidades.cs" />
+    <Compile Include="Character\ProgrammerMove.cs" />
+    <Compile Include="Character\ShowAbility.cs" />
+    <Compile Include="Character\ShowAbilityDesc.cs" />
+    <Compile Include="ClassesEnum\TipoPlayer.cs" />
+    <Compile Include="Enum\AtributoPref.cs" />
+    <Compile Include="Enum\ClassesEnum.cs" />
+    <Compile Include="Enum\Dificuldade.cs" />
+    <Compile Include="Enum\TipoAtaque.cs" />
+    <Compile Include="Movements\Move.cs" />
+    <Compile Include="Movements\MovingObject.cs" />
+    <Compile Include="GameIA\ArtificialIntelligence.cs" />
+    <Compile Include="Reward\RewardController.cs" />
+    <Compile Include="Reward\RewardItem.cs" />
+    <Compile Include="Utils\ApplicationModel.cs" />
+    <Compile Include="Utils\CalculosUtil.cs" />
+    <Compile Include="Utils\Close.cs" />
+    <Compile Include="Utils\ConsoleButtons.cs" />
+    <Compile Include="Utils\ConsoleReport.cs" />
+    <Compile Include="Utils\EffectsPlayer.cs" />
+    <Compile Include="Utils\EndGame.cs" />
+    <Compile Include="Utils\EnumExtensions.cs" />
+    <Compile Include="Utils\GameManagerUtil.cs" />
+    <Compile Include="Utils\SoundChanger.cs" />
+    <Compile Include="Utils\SoundManager.cs" />
+    <Compile Include="Utils\Generic.cs" />
+    <Compile Include="Utils\LoadScene.cs" />
+    <Compile Include="Utils\MapMethods.cs" />
+    <Compile Include="Utils\Simulator.cs" />
+    <Compile Include="Utils\TaskManager.cs" />
+    <Compile Include="Utils\TurnManager.cs" />
+    <Compile Include="Board\Grid.cs" />
+    <Compile Include="Board\Pathfinding.cs" />
+    <Compile Include="Board\Square.cs" />
+    <Compile Include="Utils\ActionOrder.cs" />
+    <Compile Include="Character\Atributos.cs" />
+    <Compile Include="Character\Inventario.cs" />
+    <Compile Include="Character\Player.cs" />
+    <Compile Include="Character\Status.cs" />
+    <Compile Include="Character\Action.cs" />
+    <Compile Include="Utils\UserLogged.cs" />
+    <Compile Include="Utils\WinningConditions.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+</Project>

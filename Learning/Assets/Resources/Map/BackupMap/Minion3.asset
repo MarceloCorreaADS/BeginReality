@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 908194278, guid: c4733bd207936494eb7a6fbd7134c57d, type: 3}
+  m_Name: Minion3
+  m_EditorClassIdentifier: 
+  col: 10
+  row: 10
+  qtyMinInimigos: 2
+  qtyMaxInimigos: 3
+  pecasByteCoin: 20
+  charactersPos:
+  - gameObject: {fileID: 118736, guid: 1e507968328d92142813d8469d25aa34, type: 2}
+    tag: Ally
+    number: 0
+    pecasByteCoin: 0
+    startPosition: {x: 2, y: 2, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  - gameObject: {fileID: 118736, guid: 1e507968328d92142813d8469d25aa34, type: 2}
+    tag: Ally
+    number: 0
+    pecasByteCoin: 0
+    startPosition: {x: 3, y: 3, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  - gameObject: {fileID: 135632, guid: 071968dc9b0172c4ebe15b6455c75432, type: 2}
+    tag: Enemy
+    number: 0
+    pecasByteCoin: 10
+    startPosition: {x: 8, y: 8, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 5
+      nivelMax: 5
+    nivelDificuldadeMedio:
+      nivelMin: 5
+      nivelMax: 5
+    nivelDificuldadeDificil:
+      nivelMin: 5
+      nivelMax: 5
+  tilesObject:
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1
+  - tile: {fileID: 150832, guid: e118f5017fb60ab44b7a749a22ad0968, type: 2}
+    walkable: 1

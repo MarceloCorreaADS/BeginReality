@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: e81bef59cec0a6f4ea5f744b84dfee0e
+timeCreated: 1463249844
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Harpy_0
+    21300002: Monster_Harpy_1
+    21300004: Monster_Harpy_2
+    21300006: Monster_Harpy_3
+    21300008: Monster_Harpy_4
+    21300010: Monster_Harpy_5
+    21300012: Monster_Harpy_6
+    21300014: Monster_Harpy_7
+    21300016: Monster_Harpy_8
+    21300018: Monster_Harpy_9
+    21300020: Monster_Harpy_10
+    21300022: Monster_Harpy_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_Harpy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 34}
+        - {x: -29, y: 7}
+        - {x: -29, y: -21}
+        - {x: -26, y: -22}
+        - {x: -21, y: -21}
+        - {x: 1, y: -39}
+        - {x: 29, y: -39}
+        - {x: 40, y: -9}
+        - {x: 40, y: 17}
+        - {x: 13, y: 34}
+    - name: Monster_Harpy_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 36}
+        - {x: -24, y: 21}
+        - {x: -28, y: 10}
+        - {x: -28, y: -1}
+        - {x: -25, y: -15}
+        - {x: -20, y: -18}
+        - {x: -16, y: -17}
+        - {x: -17, y: -17}
+        - {x: -25, y: -28}
+        - {x: -20, y: -33}
+        - {x: 21, y: -33}
+        - {x: 36, y: -20}
+        - {x: 36, y: 12}
+        - {x: 2, y: 36}
+    - name: Monster_Harpy_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 34}
+        - {x: -20, y: 29}
+        - {x: -32, y: 21}
+        - {x: -32, y: -40}
+        - {x: 20, y: -40}
+        - {x: 33, y: -38}
+        - {x: 33, y: 12}
+        - {x: 2, y: 34}
+    - name: Monster_Harpy_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 39}
+        - {x: -31, y: 29}
+        - {x: -36, y: 9}
+        - {x: -36, y: -32}
+        - {x: 11, y: -32}
+        - {x: 39, y: -29}
+        - {x: 40, y: -27}
+        - {x: 40, y: 21}
+        - {x: 16, y: 39}
+    - name: Monster_Harpy_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 40}
+        - {x: -23, y: -19}
+        - {x: -13, y: -36}
+        - {x: 12, y: -36}
+        - {x: 23, y: -32}
+        - {x: 33, y: -1}
+        - {x: 33, y: 40}
+    - name: Monster_Harpy_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 40}
+        - {x: -22, y: 39}
+        - {x: -40, y: 15}
+        - {x: -40, y: -19}
+        - {x: -12, y: -35}
+        - {x: 32, y: -35}
+        - {x: 40, y: -25}
+        - {x: 40, y: 28}
+        - {x: 16, y: 40}
+    - name: Monster_Harpy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 40}
+        - {x: -22, y: 40}
+        - {x: -40, y: 0}
+        - {x: -40, y: -18}
+        - {x: -23, y: -33}
+        - {x: -20, y: -32}
+        - {x: 15, y: -28}
+        - {x: 40, y: -20}
+        - {x: 40, y: 31}
+    - name: Monster_Harpy_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 38}
+        - {x: 9, y: 40}
+        - {x: -4, y: 40}
+        - {x: -20, y: 18}
+        - {x: -22, y: -2}
+        - {x: -22, y: -16}
+        - {x: -20, y: -25}
+        - {x: 4, y: -35}
+        - {x: 10, y: -35}
+        - {x: 19, y: -28}
+        - {x: 33, y: -7}
+        - {x: 38, y: 15}
+        - {x: 38, y: 25}
+    - name: Monster_Harpy_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 4}
+        - {x: 25, y: 4}
+        - {x: 27, y: 4}
+        - {x: 37, y: 9}
+        - {x: 40, y: 11}
+        - {x: 40, y: 23}
+        - {x: 29, y: 39}
+        - {x: -2, y: 39}
+        - {x: -17, y: 22}
+        - {x: -40, y: 4}
+        - {x: -40, y: -9}
+        - {x: -23, y: -28}
+        - {x: 40, y: -28}
+        - {x: 40, y: -8}
+        - {x: 38, y: -4}
+    - name: Monster_Harpy_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 40}
+        - {x: -32, y: 18}
+        - {x: -32, y: -12}
+        - {x: -20, y: -29}
+        - {x: -10, y: -40}
+        - {x: 31, y: -40}
+        - {x: 38, y: -33}
+        - {x: 38, y: 26}
+        - {x: 22, y: 40}
+    - name: Monster_Harpy_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 39}
+        - {x: -23, y: 39}
+        - {x: -26, y: 37}
+        - {x: -26, y: -27}
+        - {x: -15, y: -37}
+        - {x: 11, y: -37}
+        - {x: 37, y: -8}
+        - {x: 39, y: -5}
+        - {x: 39, y: 30}
+    - name: Monster_Harpy_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 40}
+        - {x: -29, y: -24}
+        - {x: -27, y: -39}
+        - {x: -25, y: -40}
+        - {x: 7, y: -40}
+        - {x: 32, y: -32}
+        - {x: 40, y: -11}
+        - {x: 40, y: 21}
+        - {x: 19, y: 40}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

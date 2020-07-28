@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Movements\Movements\MovingObject.cs">
+    <Files>
+      <File FileName="..\Movements\Movements\TaskManager.cs" Line="116" Column="3" />
+      <File FileName="..\Movements\Movements\MovingObject.cs" Line="73" Column="31" />
+      <File FileName="..\Movements\Movements\Player.cs" Line="69" Column="16" />
+      <File FileName="..\Movements\Movements\TurnManager.cs" Line="6" Column="1" />
+      <File FileName="Assets\Script\GameManager.cs" Line="17" Column="32" />
+      <File FileName="Assets\Script\ButtonClick.cs" Line="32" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Script" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

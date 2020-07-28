@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 908194278, guid: c4733bd207936494eb7a6fbd7134c57d, type: 3}
+  m_Name: Boss3
+  m_EditorClassIdentifier: 
+  col: 10
+  row: 10
+  qtyMinInimigos: 3
+  qtyMaxInimigos: 3
+  pecasByteCoin: 20
+  charactersPos:
+  - gameObject: {fileID: 118736, guid: 1e507968328d92142813d8469d25aa34, type: 2}
+    tag: Ally
+    number: 0
+    pecasByteCoin: 0
+    startPosition: {x: 3, y: 2, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  - gameObject: {fileID: 198426, guid: 791e4d2c7f1bc9f4a8791fcb6f1a5ea3, type: 2}
+    tag: Ally
+    number: 0
+    pecasByteCoin: 0
+    startPosition: {x: 6, y: 1, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  - gameObject: {fileID: 102916, guid: 3b680f6a26a152946aa278bdb47ad73e, type: 2}
+    tag: Ally
+    number: 0
+    pecasByteCoin: 0
+    startPosition: {x: 1, y: 2, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  - gameObject: {fileID: 174394, guid: 6b9078354c52ba04d82e2ae68d563466, type: 2}
+    tag: Enemy
+    number: 0
+    pecasByteCoin: 20
+    startPosition: {x: 4, y: 7, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 4
+      nivelMax: 7
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  - gameObject: {fileID: 135632, guid: 071968dc9b0172c4ebe15b6455c75432, type: 2}
+    tag: Enemy
+    number: 0
+    pecasByteCoin: 10
+    startPosition: {x: 8, y: 5, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 4
+      nivelMax: 7
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  - gameObject: {fileID: 126724, guid: 008306dcadd847f4285620e507dfaf11, type: 2}
+    tag: Enemy
+    number: 0
+    pecasByteCoin: 10
+    startPosition: {x: 1, y: 7, z: 0}
+    nivelDificuldadeFacil:
+      nivelMin: 0
+      nivelMax: 0
+    nivelDificuldadeMedio:
+      nivelMin: 4
+      nivelMax: 7
+    nivelDificuldadeDificil:
+      nivelMin: 0
+      nivelMax: 0
+  tilesObject:
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 0}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1
+  - tile: {fileID: 121878, guid: 1e8bc9e32bd153f4bb18c20791217f66, type: 2}
+    walkable: 1

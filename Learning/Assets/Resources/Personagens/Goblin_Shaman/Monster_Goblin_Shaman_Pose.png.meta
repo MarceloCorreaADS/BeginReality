@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 4772a160cca1bf94f80fe5a1e68037f0
+timeCreated: 1463255152
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Goblin_Shaman_Pose_0
+    21300002: Monster_Goblin_Shaman_Pose_1
+    21300004: Monster_Goblin_Shaman_Pose_2
+    21300006: Monster_Goblin_Shaman_Pose_3
+    21300008: Monster_Goblin_Shaman_Pose_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_Goblin_Shaman_Pose_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 10}
+        - {x: -4, y: 30}
+        - {x: -16, y: 30}
+        - {x: -16, y: -24}
+        - {x: 17, y: -24}
+        - {x: 26, y: -8}
+        - {x: 26, y: 10}
+        - {x: 25, y: 11}
+    - name: Monster_Goblin_Shaman_Pose_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -19}
+        - {x: 30, y: 7}
+        - {x: -17, y: 7}
+        - {x: -22, y: 5}
+        - {x: -26, y: -4}
+        - {x: -26, y: -14}
+        - {x: -24, y: -20}
+        - {x: 2, y: -29}
+        - {x: 12, y: -29}
+        - {x: 14, y: -27}
+        - {x: 14, y: -22}
+        - {x: 19, y: -24}
+        - {x: 28, y: -24}
+    - name: Monster_Goblin_Shaman_Pose_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -26, y: 12}
+        - {x: -30, y: 10}
+        - {x: -30, y: -15}
+        - {x: -3, y: -20}
+        - {x: 6, y: -20}
+        - {x: 22, y: -17}
+        - {x: 25, y: -12}
+        - {x: 25, y: 0}
+    - name: Monster_Goblin_Shaman_Pose_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -29, y: 0}
+        - {x: -29, y: -30}
+        - {x: 8, y: -30}
+        - {x: 16, y: -19}
+        - {x: 16, y: 10}
+        - {x: 9, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

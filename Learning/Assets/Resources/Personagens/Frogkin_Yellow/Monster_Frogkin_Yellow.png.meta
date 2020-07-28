@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 9bb25584d40bf434fba1dc7cebeddb53
+timeCreated: 1463249490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Frogkin_Yellow_0
+    21300002: Monster_Frogkin_Yellow_1
+    21300004: Monster_Frogkin_Yellow_2
+    21300006: Monster_Frogkin_Yellow_3
+    21300008: Monster_Frogkin_Yellow_4
+    21300010: Monster_Frogkin_Yellow_5
+    21300012: Monster_Frogkin_Yellow_6
+    21300014: Monster_Frogkin_Yellow_7
+    21300016: Monster_Frogkin_Yellow_8
+    21300018: Monster_Frogkin_Yellow_9
+    21300020: Monster_Frogkin_Yellow_10
+    21300022: Monster_Frogkin_Yellow_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_Frogkin_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 34}
+        - {x: -33, y: 13}
+        - {x: -33, y: -40}
+        - {x: 7, y: -40}
+        - {x: 30, y: -35}
+        - {x: 30, y: 26}
+        - {x: 21, y: 34}
+    - name: Monster_Frogkin_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 34}
+        - {x: -31, y: -40}
+        - {x: 31, y: -40}
+        - {x: 31, y: 33}
+        - {x: 30, y: 34}
+    - name: Monster_Frogkin_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 35}
+        - {x: -28, y: 32}
+        - {x: -28, y: -31}
+        - {x: 5, y: -40}
+        - {x: 32, y: -40}
+        - {x: 32, y: 13}
+        - {x: 28, y: 35}
+    - name: Monster_Frogkin_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40}
+        - {x: -33, y: 23}
+        - {x: -33, y: -26}
+        - {x: 0, y: -36}
+        - {x: 34, y: -36}
+        - {x: 34, y: 25}
+        - {x: 20, y: 40}
+    - name: Monster_Frogkin_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 40}
+        - {x: -24, y: -40}
+        - {x: 31, y: -40}
+        - {x: 34, y: -27}
+        - {x: 34, y: 19}
+        - {x: 23, y: 40}
+    - name: Monster_Frogkin_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 40}
+        - {x: -15, y: 40}
+        - {x: -36, y: 17}
+        - {x: -36, y: 15}
+        - {x: -16, y: -11}
+        - {x: -11, y: -7}
+        - {x: -9, y: -5}
+        - {x: -5, y: 0}
+        - {x: -5, y: 2}
+        - {x: 1, y: 5}
+        - {x: -7, y: -3}
+        - {x: -6, y: -14}
+        - {x: -36, y: -17}
+        - {x: -36, y: -35}
+        - {x: -23, y: -40}
+        - {x: 19, y: -40}
+        - {x: 34, y: -29}
+        - {x: 34, y: 22}
+        - {x: 32, y: 35}
+    - name: Monster_Frogkin_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 40}
+        - {x: -21, y: 40}
+        - {x: -33, y: 15}
+        - {x: -33, y: -24}
+        - {x: -31, y: -33}
+        - {x: -16, y: -36}
+        - {x: 28, y: -36}
+        - {x: 35, y: -27}
+        - {x: 35, y: 3}
+        - {x: 23, y: 37}
+    - name: Monster_Frogkin_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 40}
+        - {x: -26, y: -40}
+        - {x: 15, y: -40}
+        - {x: 26, y: -5}
+        - {x: 26, y: 35}
+        - {x: 8, y: 40}
+    - name: Monster_Frogkin_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 7}
+        - {x: 24, y: 32}
+        - {x: 8, y: 40}
+        - {x: -21, y: 40}
+        - {x: -32, y: 6}
+        - {x: -33, y: 3}
+        - {x: -33, y: -34}
+        - {x: -21, y: -38}
+        - {x: 6, y: -38}
+        - {x: 19, y: -17}
+        - {x: 21, y: -9}
+        - {x: 37, y: 2}
+    - name: Monster_Frogkin_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 40}
+        - {x: -29, y: 19}
+        - {x: -29, y: -11}
+        - {x: -22, y: -34}
+        - {x: -19, y: -39}
+        - {x: 6, y: -39}
+        - {x: 34, y: -29}
+        - {x: 34, y: 21}
+        - {x: 14, y: 40}
+    - name: Monster_Frogkin_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 40}
+        - {x: -13, y: 40}
+        - {x: -31, y: 24}
+        - {x: -32, y: 20}
+        - {x: -32, y: -32}
+        - {x: -24, y: -33}
+        - {x: 29, y: -33}
+        - {x: 34, y: -23}
+        - {x: 34, y: 9}
+        - {x: 23, y: 39}
+    - name: Monster_Frogkin_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 40}
+        - {x: -33, y: 14}
+        - {x: -33, y: -16}
+        - {x: -27, y: -34}
+        - {x: -5, y: -38}
+        - {x: 26, y: -38}
+        - {x: 34, y: -26}
+        - {x: 34, y: 9}
+        - {x: 24, y: 40}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
