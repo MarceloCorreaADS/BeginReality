@@ -1,4 +1,5 @@
 # Begin Reality
+![Begin Reality](Begin%20Reality.jpg)
 
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
